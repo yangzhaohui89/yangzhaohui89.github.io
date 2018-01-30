@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[第一篇博客（Hexo使用指南）]]></title>
+      <title><![CDATA[Hexo使用指南]]></title>
       <url>/2017/11/15/first/</url>
       <content type="html"><![CDATA[<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建第一篇博客"><a href="#创建第一篇博客" class="headerlink" title="创建第一篇博客"></a>创建第一篇博客</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"第一篇博客"</span></span><br></pre></td></tr></table></figure>
 <p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">写文章相关</a></p>
