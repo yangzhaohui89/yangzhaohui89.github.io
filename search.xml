@@ -3,6 +3,31 @@
   
     
     <entry>
+      <title><![CDATA[shell使用笔记]]></title>
+      <url>/2018/02/09/%E7%AC%94%E8%AE%B0.1/</url>
+      <content type="html"><![CDATA[<h2 id="常用命令总结"><a href="#常用命令总结" class="headerlink" title="常用命令总结"></a>常用命令总结</h2><h3 id="ps使用说明"><a href="#ps使用说明" class="headerlink" title="ps使用说明"></a>ps使用说明</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"第一篇博客"</span></span><br></pre></td></tr></table></figure>
+<p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">写文章相关</a></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>1.Hexo<a href="https://hexo.io/" target="_blank" rel="external">官网</a><br>2.<a href="http://dkylin.com/archives/2016/build-personal-blog-by-hexo.html" target="_blank" rel="external">http://dkylin.com/archives/2016/build-personal-blog-by-hexo.html</a></p>
+<blockquote><p>人生总有起起伏伏，总结、总结、总结。</p>
+<footer><strong>我说</strong></footer></blockquote>
+]]></content>
+      
+        <categories>
+            
+            <category> 笔记 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> shell </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[友盟使用指南]]></title>
       <url>/2018/02/05/second/</url>
       <content type="html"><![CDATA[<h2 id="概念说明"><a href="#概念说明" class="headerlink" title="概念说明"></a>概念说明</h2><h3 id="AppKey-Umeng-Message-Secret-App-Master-Secret"><a href="#AppKey-Umeng-Message-Secret-App-Master-Secret" class="headerlink" title="AppKey, Umeng Message Secret , App Master Secret"></a>AppKey, Umeng Message Secret , App Master Secret</h3><p>注册友盟账号，系统会自动生成AppKey, Umeng Message Secret , App Master Secret。</p>
