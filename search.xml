@@ -3,11 +3,33 @@
   
     
     <entry>
+      <title><![CDATA[基金从业资格考试]]></title>
+      <url>/2018/02/22/%E7%AC%94%E8%AE%B0.2/</url>
+      <content type="html"><![CDATA[<h2 id="考试大纲"><a href="#考试大纲" class="headerlink" title="考试大纲"></a>考试大纲</h2><p>1.投资管理基础<br>2.权益投资<br>3.固定收益投资<br>4.衍生品工作<br>5.另类投资<br>6.投资者需求与资产配置<br>7.投资组合管理<br>8.投资交易管理<br>9.投资风险的管理与控制<br>10.基金业绩评价<br>11.基金的投资交易与结算<br>12.基金估值、费用与会计核算<br>13.基金的利润分配与税收<br>14.基金国际化的发展概况</p>
+<blockquote><p>人生总有起起伏伏，总结、总结、总结。</p>
+<footer><strong>我说</strong></footer></blockquote>]]></content>
+      
+        <categories>
+            
+            <category> 金融 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 基金 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[shell使用笔记]]></title>
       <url>/2018/02/09/%E7%AC%94%E8%AE%B0.1/</url>
-      <content type="html"><![CDATA[<h2 id="常用命令总结"><a href="#常用命令总结" class="headerlink" title="常用命令总结"></a>常用命令总结</h2><h3 id="ps使用说明"><a href="#ps使用说明" class="headerlink" title="ps使用说明"></a>ps使用说明</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"第一篇博客"</span></span><br></pre></td></tr></table></figure>
-<p>更多信息: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">写文章相关</a></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>1.Hexo<a href="https://hexo.io/" target="_blank" rel="external">官网</a><br>2.<a href="http://dkylin.com/archives/2016/build-personal-blog-by-hexo.html" target="_blank" rel="external">http://dkylin.com/archives/2016/build-personal-blog-by-hexo.html</a></p>
+      <content type="html"><![CDATA[<h2 id="常用命令总结"><a href="#常用命令总结" class="headerlink" title="常用命令总结"></a>常用命令总结</h2><h3 id="ps使用说明"><a href="#ps使用说明" class="headerlink" title="ps使用说明"></a>ps使用说明</h3><p>ps命令是process status的缩写，列出系统中当前正在运行的进程。<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ ps -ef</span><br><span class="line">$ ps -aux <span class="comment">#列出目前所有正在内存中的程序</span></span><br><span class="line">$ ps -au <span class="comment">#显示较详细的咨询</span></span><br></pre></td></tr></table></figure></p>
+<p><strong>UID</strong> 用户id(User ID)<br><strong>PID</strong> 进程id(Process ID)<br><strong>PPID</strong> 父进程id(Parent Process id)<br><strong>SID</strong> 会话id(Session ID)<br><strong>%CPU</strong> 进程cpu占用率<br><strong>%MEM</strong> 进程的内存占用率<br><strong>C</strong><br><strong>STIME</strong> 起始时间<br><strong>TTY</strong> 与进程关联的终端<br><strong>TIME</strong> 运行时间<br><strong>CMD</strong> 该进行运行的命令<br><strong>STAT</strong> 进程的运行状态，R运行Runnable(on run queue)正在运行或在运行队列中等待；S 休眠中阻塞；I 空闲 Idle；Z 僵死Zombie；。。。</p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>1.<a href="http://blog.csdn.net/vip_wangsai/article/details/72616587" target="_blank" rel="external">参考博客地址</a></p>
 <blockquote><p>人生总有起起伏伏，总结、总结、总结。</p>
 <footer><strong>我说</strong></footer></blockquote>
 ]]></content>
